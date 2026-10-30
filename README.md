@@ -1,11 +1,9 @@
 # Hi there, I'm Jaswantsingh Maurya 👋
 
-<img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif/coder.gif">
-
 ### B.Tech CSE (AI/ML) Student | Python | DSA | AI & ML Enthusiast | Building in Public
 
-- 🔭 I’m currently working on **Python_Programs & LeetCode Solutions**
-- 🌱 I’m currently learning **DSA, AI/ML & CI/CD Pipelines**
+- 🔭 I'm currently working on **Python Programs & LeetCode Solutions**
+- 🌱 I'm currently learning **DSA, AI/ML & CI/CD Pipelines**
 - 💬 Ask me about **Python, C++, DSA**
 - 📫 Reach me at **jaswantsinghmaurya43@gmail.com**
 - 📍 **Maharashtra, India**
@@ -20,8 +18,13 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### 📌 Popular Repositories
-- [**LeetCode_Solution**](https://github.com/jaswantsingh-maurya/LeetCode_Solution) - Clean C++ solutions for DSA
-- [**Python_Programs**](https://github.com/jaswantsingh-maurya/Python_Programs) - 20 Fundamental Python Programs with Tests
-- [**My_Games**](https://github.com/jaswantsingh-maurya/My_Games) - Mini games for fun learning
-- [**First_CI_Pipeline**](https://github.com/jaswantsingh-maurya/First_CI_Pipeline
-- [**Second_CI_Pipeline**](https://github.com/jaswantsingh-maurya/Second_CI_Pipeline
+- **LeetCode_Solution** - Clean and well-commented C++ solutions for DSA
+- **Python_Programs** - 20 Fundamental Python Programs with Tests
+- **My_Games** - Mini games built for fun learning with C++/Python
+- **First_CI_Pipeline** - Python CI Pipeline with GitHub Actions & Pytest
+- **Second_CI_Pipeline** - Python CI Pipeline with GitHub Actions & Pytest
+
+---
+
+### 🤝 Connect with Me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aswantsinghmaurya43@gmail.com)
